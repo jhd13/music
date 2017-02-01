@@ -1,0 +1,8 @@
+# ignore ouput files from Lilypond and from Finale
+*.pdf
+
+# ignore backup files created by finale
+*.bak
+
+# ignore log files from Lilypond
+*.log
